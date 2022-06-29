@@ -1,7 +1,7 @@
 const data = require('../data/zoo_data');
 
 function countEntrants(entrants) {
-  // seu código aqui
+  // Seja o que Deus quiser :o
 }
 
 function calculateEntry(entrants) {
